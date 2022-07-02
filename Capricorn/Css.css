@@ -61,7 +61,7 @@
     z-index: calc(1 * var(--i))
   }
   .contact li:hover{
-    transform: translatex(-50px);
+    transform: transition(-50px);
     background: var(--clr);
   }
   .contact li::before{

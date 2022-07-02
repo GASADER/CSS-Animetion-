@@ -46,3 +46,6 @@ var arr2 = ["value3", "value4"]
 var arr3 = ["value5", "value6"]
 var concatArr = arr1.concat(arr2, arr3);
 var myArr = arr1.slice(1);
+// 7data type
+
+var myNum
